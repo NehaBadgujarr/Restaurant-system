@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RSystem", "RSystem.csproj", "{046295D2-9AD3-4535-8C65-3AC034F1852A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLibrary", "..\DataAccessLibrary\DataAccessLibrary.csproj", "{11CBD92B-3477-4441-8C74-AA44BBBC44D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modell", "..\Modell\Modell.csproj", "{57D7F301-25CC-4CAC-BDEC-0185D6E7A0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{046295D2-9AD3-4535-8C65-3AC034F1852A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{046295D2-9AD3-4535-8C65-3AC034F1852A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{046295D2-9AD3-4535-8C65-3AC034F1852A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{046295D2-9AD3-4535-8C65-3AC034F1852A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11CBD92B-3477-4441-8C74-AA44BBBC44D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CBD92B-3477-4441-8C74-AA44BBBC44D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CBD92B-3477-4441-8C74-AA44BBBC44D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CBD92B-3477-4441-8C74-AA44BBBC44D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D7F301-25CC-4CAC-BDEC-0185D6E7A0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D7F301-25CC-4CAC-BDEC-0185D6E7A0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D7F301-25CC-4CAC-BDEC-0185D6E7A0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D7F301-25CC-4CAC-BDEC-0185D6E7A0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5F4EAFE-3098-4FD3-A9B8-7B23FC9A33B1}
+	EndGlobalSection
+EndGlobal
